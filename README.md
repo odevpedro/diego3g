@@ -10,7 +10,7 @@ Conheci o mercado de certificações e como são preparados os profissionais em 
 
 <h1>Algumas Tecnologias:</h1>
 <br>
-asdf
+
 
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&Link=https:t.me/schmidtpedro)](https://t.me/schmidtpedro)
