@@ -15,4 +15,9 @@ Por pertencer a geração Z a tecnologia sempre esteve presente na minha vida em
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Link=https://www.linkedin.com/in/ruan-p-186968191/)](https://www.linkedin.com/in/ruan-p-186968191/)
 
 
+<h1>Tecnologias:<h1>
+  
+ [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
 
