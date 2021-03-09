@@ -4,11 +4,10 @@ CTO @Rocketseat.
 
 [![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 
-Enthusiast of the best web & mobile development technologies.
+Por pertencer a geração Z a tecnologia sempre esteve presente na minha vida em momentos diversos. Acontece que sempre fui interessado em entender como as coisas funcionavam e a tangibilidade oferecida pela tecnologia(meu primeir computador para ser mais exato) supriu essa minha vontade.
 
-Passionate about education and changing people's lives through programming. More than 200,000 people have already undergone one of my trainings.
+Fiz um curso técnico de informática com duração de dois anos(2015-2017) que me deu um "norte" sobre o mercado.
 
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
-
+Conheci o mercado de certificações e como são preparados os profissionais em cada área dentro deste grande universo da TI
