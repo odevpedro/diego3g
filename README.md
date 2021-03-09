@@ -4,7 +4,8 @@ CTO @Rocketseat.
 
 [![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&Link=https:t.me/schmidtpedro)](https://t.me/schmidtpedro)
 
 Por pertencer a geração Z a tecnologia sempre esteve presente na minha vida em momentos diversos. Acontece que sempre fui interessado em entender como as coisas funcionavam e a tangibilidade oferecida pela tecnologia(meu primeir computador para ser mais exato) supriu essa minha vontade.
 
