@@ -30,7 +30,7 @@ Por pertencer a geração Z a tecnologia sempre esteve presente na minha vida em
 ![Shell Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-<br><br>
-![Alt Text](https://i.pinimg.com/originals/6e/93/ce/6e93ce9a0314c7935ec5ba11b366e85d.gif)
+<br>
+![Alt Text](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
 
